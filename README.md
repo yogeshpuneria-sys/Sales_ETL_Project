@@ -79,7 +79,4 @@ The notebook uses Windows Authentication:
 ```
 
 No passwords should be committed to GitHub.
-## Resume Description
 
-**Sales Analytics ETL Project | Python, Pandas & SQL Server**  
-Built an ETL pipeline to extract, transform, and load customer, product, and order data into SQL Server, enabling SQL-based analysis of revenue, customer trends, and product performance.
