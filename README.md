@@ -79,15 +79,6 @@ The notebook uses Windows Authentication:
 ```
 
 No passwords should be committed to GitHub.
-
-## Sample Business Insights
-
-Using the included sample dataset, the pipeline helps answer questions such as which products generate the most revenue, which customers spend the most, and which cities contribute the highest sales.
-
-## Skills Demonstrated
-
-Python • Pandas • SQL • ETL Development • Data Cleaning • Data Transformation • Data Validation • Microsoft SQL Server • Business Analysis • Data Visualization
-
 ## Resume Description
 
 **Sales Analytics ETL Project | Python, Pandas & SQL Server**  
